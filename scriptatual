@@ -1,0 +1,7 @@
+#!/bin/bash
+clear 
+read -p "Qual seu nome terraqueo?"  nome
+
+#clear
+echo -e "\n\n\tOlá $nome! \n\n"
+echo -e "\n\n\tTerraqueo $nome! você esta usando a distribuição Ubuntu do Linux dentro da VM VirtualBox, seja muito bem-vindo! \n\n"
